@@ -12,3 +12,4 @@ alias app="cd $APP_DIR"
 alias grep='grep --color=auto'
 alias fgrep='fgrep --color=auto'
 alias egrep='egrep --color=auto'
+alias pa='php artisan'
